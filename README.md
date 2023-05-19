@@ -1,8 +1,10 @@
 # disenoUDP-herramientas
 
 - Arduino https://www.arduino.cc/
+- Bash https://www.gnu.org/software/bash/manual/bash.html
 - Bela https://bela.io/
 - ChucK https://chuck.cs.princeton.edu/
+- Csound https://csound.com/
 - CSS 3 https://www.w3.org/Style/CSS/
 - C++ https://cplusplus.com/
 - git https://git-scm.com/
@@ -10,6 +12,7 @@
 - HTML 5 https://html.spec.whatwg.org/
 - JavaScript https://262.ecma-international.org/13.0/
 - KiCad https://www.kicad.org/
+- LTspice https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
 - MadMapper https://madmapper.com/
 - Markdown https://daringfireball.net/projects/markdown/
 - Max https://cycling74.com/
@@ -18,8 +21,10 @@
 - Mu https://codewith.mu/
 - openFrameworks https://openframeworks.cc/
 - Processing 4 https://processing.org/
+- Pulsar https://pulsar-edit.dev/
 - Pure Data https://puredata.info/
 - Python 3 https://www.python.org/
 - p5.js https://p5js.org/
 - Raspberry Pi https://www.raspberrypi.com/
+- SuperCollider https://supercollider.github.io/
 - Visual Studio Code https://code.visualstudio.com/
