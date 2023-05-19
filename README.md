@@ -1,6 +1,7 @@
 # disenoUDP-herramientas
 
 - Arduino https://www.arduino.cc/
+- Bela https://bela.io/
 - ChucK https://chuck.cs.princeton.edu/
 - CSS 3 https://www.w3.org/Style/CSS/
 - C++ https://cplusplus.com/
@@ -9,11 +10,15 @@
 - HTML 5 https://html.spec.whatwg.org/
 - JavaScript https://262.ecma-international.org/13.0/
 - KiCad https://www.kicad.org/
+- MadMapper https://madmapper.com/
 - Markdown https://daringfireball.net/projects/markdown/
+- Max https://cycling74.com/
 - MIDI https://www.midi.org/
 - ml5.js https://ml5js.org/
 - Mu https://codewith.mu/
+- openFrameworks https://openframeworks.cc/
 - Processing 4 https://processing.org/
+- Pure Data https://puredata.info/
 - Python 3 https://www.python.org/
 - p5.js https://p5js.org/
 - Raspberry Pi https://www.raspberrypi.com/
